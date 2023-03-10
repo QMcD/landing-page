@@ -4,3 +4,7 @@ This is the landing page from "The Odin Project". This is the first project wher
 
 Reminder to give credit to Jessy Barbier on dribbble.com
 https://dribbble.com/shots/6116880-Barbershop-Logo?utm_source=Pinterest_Shot&utm_campaign=jessybarbier&utm_content=Barbershop+Logo&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=jessybarbier&utm_content=Barbershop%20Logo&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=jessybarbier&utm_content=Barbershop%20Logo&utm_medium=Social_Share
+
+Barbers image by Obi https://unsplash.com/photos/-sRVfY0f2d8
+Products image by Andrea Donato https://unsplash.com/photos/v1F2Ayb57-k
+Services image by Alex Mihai C https://unsplash.com/photos/FWgYghZrVqU
